@@ -1,2 +1,2 @@
-# launchboxlabs.xyz
+# launchboxlabs.org
 Repo for Launch Box Labs
